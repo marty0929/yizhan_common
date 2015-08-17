@@ -1,4 +1,4 @@
-# yizhan_common v0.0.7
+# yizhan_common v1.0.0
 =========
 
 common是一个动画整合的css，他的使用非常简单
